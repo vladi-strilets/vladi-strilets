@@ -7,7 +7,7 @@
 
 ⚐ Based in Europe
 
-ϟ Currently working with enterprise companies, adding value by adopting modern dev stack
+ϟ Currently working with enterprise companies, adding value by adopting a modern dev stack
 
 ϟ Recently built a startup that failed
 
