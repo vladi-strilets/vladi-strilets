@@ -1,4 +1,4 @@
-# Vladimir
+# Volodymyr
 ## Web Developer
 
 ⤷ Hi, I am a Web Developer with 7 years of experience. I do full stack in TypeScript using `Next.js` + `Nest.js`.
